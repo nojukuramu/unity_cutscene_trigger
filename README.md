@@ -17,3 +17,9 @@ If left Uncheck, it will use CutSceneList script for cutscenes using the specifi
 
 ##Markdown Scripting
 This is experimental. It will be implemented in the future.
+
+
+#Setup in 1 Easy Step
+1. Attach both of the files to the game Object.
+
+Found Bugs? Please message me.
